@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> First automation docker image and docker container is sussesfully build in this project </h2>
+<h2> First automation docker image and docker container is sussesfully build in this project is created </h2>
