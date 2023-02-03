@@ -13,4 +13,4 @@ docker rmi $JOB_NAME:v1.$BUILD_ID vinayvkmb/$JOB_NAME:v1.$BUILD_ID vinayvkmb/$JO
 docker build -t hello_demo .
 docker tag hello_demo vinayvkmb/hello_demo
 docker push vinayvkmb/hello_demo
-docker rmi hello_demo vinayvkmb/hello_demo</h2>
+docker rmi hello_demo vinayvkmb/hello_demo image</h2>
